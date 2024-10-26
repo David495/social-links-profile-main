@@ -1,0 +1,95 @@
+.body {
+ padding-top: 100px;
+ padding-left: 510px;
+ background-color: black;
+ flex-wrap: wrap;
+ min-height: 320px;
+}
+
+.plain-box {
+    border: 1px solid;
+    height: 700px;
+    width: 300px;
+    border-radius: 3px;
+background-color: rgb(23, 24, 24);
+}
+
+img {
+    border-radius: 50%;
+   margin-left: 60px;
+   margin-top: 30px;
+}
+
+.txt {
+    text-align: center;
+    color: white;
+}
+
+.txt-1 {
+    text-align: center;
+    color: yellowgreen;
+}
+
+.txt-2 {
+    text-align: center;
+    color: white;
+}
+
+.github {
+text-align: center;
+color: rgb(252, 252, 252);
+border: 2px solid ;
+height: 50px;
+width: 250px;
+margin-left: 20px;
+border-radius: 5px;
+font-size: 14px;
+}
+
+.Front-end {
+    text-align: center;
+    color: rgb(252, 252, 252);
+    border: 2px solid ;
+    height: 50px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 14px;  
+    margin-top: 15px;
+}
+
+.LinkedIn {
+    text-align: center;
+    color: rgb(252, 252, 252);
+    border: 2px solid ;
+    height: 50px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 14px;  
+    margin-top: 15px;
+}
+
+.Twitter {
+    text-align: center;
+    color: rgb(252, 252, 252);
+    border: 2px solid ;
+    height: 50px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 15px;   
+}
+
+.Instagram {
+    text-align: center;
+    color: rgb(252, 252, 252);
+    border: 2px solid ;
+    height: 50px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 14px; 
+    margin-top: 15px; 
+}
